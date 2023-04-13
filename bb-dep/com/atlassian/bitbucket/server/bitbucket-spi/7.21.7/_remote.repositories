@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 13:19:16 MSK 2023
+bitbucket-spi-7.21.7.jar>atlassian-public=
+bitbucket-spi-7.21.7.pom>atlassian-public=

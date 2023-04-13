@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 19 18:16:29 SAMT 2021
+jsr311-api-1.1.1.jar>maxoptra-nexus=
+jsr311-api-1.1.1.pom>maxoptra-nexus=
+jsr311-api-1.1.1.jar>central=
+jsr311-api-1.1.1.pom>central=

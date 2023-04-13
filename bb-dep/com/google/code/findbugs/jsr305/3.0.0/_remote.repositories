@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 19 18:16:29 SAMT 2021
+jsr305-3.0.0.jar>central=
+jsr305-3.0.0.pom>central=
+jsr305-3.0.0.jar>maxoptra-nexus=
+jsr305-3.0.0.pom>maxoptra-nexus=

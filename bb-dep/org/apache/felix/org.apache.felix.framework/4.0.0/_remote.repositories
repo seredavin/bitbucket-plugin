@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 13:08:35 MSK 2023
+org.apache.felix.framework-4.0.0.jar>atlassian-public=
+org.apache.felix.framework-4.0.0.jar>central=
+org.apache.felix.framework-4.0.0.pom>atlassian-public=
+org.apache.felix.framework-4.0.0.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 12:56:59 MSK 2023
+guava-26.0-jre.jar>central-proxy=
+guava-26.0-jre.pom>atlassian-public=
+guava-26.0-jre.jar>atlassian-public=
+guava-26.0-jre.pom>central-proxy=

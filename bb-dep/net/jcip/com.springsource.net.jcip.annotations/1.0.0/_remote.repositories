@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 12 13:08:51 MSK 2023
+com.springsource.net.jcip.annotations-1.0.0.jar>atlassian-public=
+com.springsource.net.jcip.annotations-1.0.0.pom>atlassian-public=
